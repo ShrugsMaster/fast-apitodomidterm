@@ -1,0 +1,5 @@
+Ans 1. a.[10,20,40,50]
+Ans 2. d. tuples are immutable
+Ans 3. B. removes all leading and trailing whitespace from a string
+Ans 4. a. open ("data.txt","r+")
+Ans 5. a. 15
